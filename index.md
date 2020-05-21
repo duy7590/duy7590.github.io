@@ -16,5 +16,6 @@
 ---
 <center>© 2020 Duy Nguyen. Powered by Jekyll and the Minimal Theme.</center>
 
+<img src="images/Semmelweis.png" align="left"/><img src="images/handwashing.png" align="left"/>
 
 

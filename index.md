@@ -9,15 +9,12 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/credit-risk-prediction)
 
 <div style="text-align: justify">In this notebook, we're going to reanalyze the data that made Semmelweis discover the importance of handwashing. Let's start by looking at the data that made Semmelweis realize that something was wrong with the procedures at Vienna General Hospital.</div>
-<br>
-<td><img src="images/Semmelweis.png"/></td>
-<td><img src="images/handwashing.png"/></td>
-<br>
+<table><tr>
+<td> <img src="images/Semmelweis.png" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="images/handwashing.png" alt="Drawing" style="width: 250px;"/> </td>
+</tr></table>
 ---
 <center>© 2020 Duy Nguyen. Powered by Jekyll and the Minimal Theme.</center>
 
 
-<table><tr>
-<td> <img src="images/Semmelweis.png" style="width: 250px;"/> </td>
-<td> <img src="images/handwashing.png" style="width: 250px;"/> </td>
-</tr></table>
+

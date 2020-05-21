@@ -10,7 +10,8 @@
 
 <div style="text-align: justify">In this notebook, we're going to reanalyze the data that made Semmelweis discover the importance of handwashing. Let's start by looking at the data that made Semmelweis realize that something was wrong with the procedures at Vienna General Hospital.</div>
 <br>
-<center><img src="images/Semmelweis.png"/></center><center><img src="images/handwashing.png"/></center>
+<td><img src="images/Semmelweis.png"/></td>
+<td><img src="images/handwashing.png"/></td>
 <br>
 ---
 <center>© 2020 Duy Nguyen. Powered by Jekyll and the Minimal Theme.</center>

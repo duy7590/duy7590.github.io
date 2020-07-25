@@ -3,7 +3,7 @@
 ## Data visualization
 
 ### GLOBAL SITUATION OF COVID-19
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/github/duy7590/Covid-19-Status-Visualization/blob/master/Visualizing_COVID_19_Data.ipynb)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1Z9UFhFYL-Eo-G19sHSMm2-wYKAe9ft1g?usp=sharing)
 
 
 <div style="text-align: justify">Within months, COVID-19 went from an epidemic to a pandemic. From the first identified case in December 2019, how did the virus spread so fast and widely? The spread of disease is a real concern for a world in which global travel is commonplace.

@@ -18,40 +18,6 @@ This project has been done to visualize the gain and loss of my 3 positions in C
 
 My Entry was as below:
 
-<table style="height: 242px;" width="697">
-<tbody>
-<tr>
-<td style="width: 139px;">Acquisition Date</td>
-<td style="width: 139px;">&nbsp;Ticker</td>
-<td style="width: 139px;">Quantity</td>
-<td style="width: 139px;">Unit Cost &euro;&nbsp;</td>
-<td style="width: 140px;">&nbsp;Cost Basis &euro;</td>
-</tr>
-<tr>
-<td style="width: 139px;">&nbsp;03/31/20&nbsp;</td>
-<td style="width: 139px;">&nbsp;NOKIA.HE</td>
-<td style="width: 139px;">1000&nbsp;</td>
-<td style="width: 139px;">&nbsp;2.78</td>
-<td style="width: 140px;">&nbsp;2780</td>
-</tr>
-<tr>
-<td style="width: 139px;">&nbsp;03/31/20&nbsp;</td>
-<td style="width: 139px;">FORTUM.HE&nbsp;</td>
-<td style="width: 139px;">&nbsp;100</td>
-<td style="width: 139px;">&nbsp;13.4</td>
-<td style="width: 140px;">1340</td>
-</tr>
-<tr>
-<td style="width: 139px;">09/16/19&nbsp;</td>
-<td style="width: 139px;">&nbsp;ETH-EUR</td>
-<td style="width: 139px;">&nbsp;10</td>
-<td style="width: 139px;">191.98&nbsp;</td>
-<td style="width: 140px;">&nbsp;1919.8</td>
-</tr>
-</tbody>
-</table>
-<!-- DivTable.com -->
-
 <img src="images/Portfolio_tracker.png" align="center"/>
 
 ---

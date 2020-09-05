@@ -10,7 +10,7 @@ Aware of the serious situation, with this quick project I will build a mini dash
 https://towardsdatascience.com/@nik.piepenbreier 
 I’ll be using data from this wonderful Github repository that auto-updates the data daily. I’ll load our data into a Pandas’ dataframe based on the URL so that it’ll update automatically for us every day.</div>
 
-<img src="images/covid19_visual.png" align="center"/>
+<img src="images/Portfolio_tracker.png" align="center"/>
 ---
 
 ### GLOBAL SITUATION OF COVID-19

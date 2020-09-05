@@ -1,12 +1,11 @@
 # Portfolio
----
+
 ## Data visualization
 
 ### Stock & Crypto Portfolio Performance 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1Z9UFhFYL-Eo-G19sHSMm2-wYKAe9ft1g?usp=sharing)
 
-
-<div style="text-align: justify">This project has been done based on my real experience with the investment in stock market and crypto market.
+This project has been done based on my real experience with the investment in stock market and crypto market.
 
 During the period of 2018-2019, i have researched about Blockchain technology and learn about its tremendous pontential in the new age of technology. One of the best things about the blockchain is that, because it is a decentralized system that exists between all permitted parties, there’s no need to rely onintermediaries (Middlemen). Apart from its payment feature, the most important usecase of Crypto is smart contracts, otherwise called self-executing contracts, blockchain contracts, or digital contracts. smart contracts not only define the rules and penalties around an agreement in the same way that a traditional contract does, but also automatically enforce those obligations.
 
@@ -21,8 +20,6 @@ My Entry was as below:
 <img src="images/Portfolio_tracker.png" align="center"/>
 
 
-
-
 ---
 ### GLOBAL SITUATION OF COVID-19
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1Z9UFhFYL-Eo-G19sHSMm2-wYKAe9ft1g?usp=sharing)
@@ -34,7 +31,6 @@ https://towardsdatascience.com/@nik.piepenbreier
 I’ll be using data from this wonderful Github repository that auto-updates the data daily. I’ll load our data into a Pandas’ dataframe based on the URL so that it’ll update automatically for us every day.</div>
 
 <img src="images/covid19_visual.png" align="center"/>
-
 
 ---
 ## Data Science
@@ -48,7 +44,3 @@ I’ll be using data from this wonderful Github repository that auto-updates the
 <img src="images/Semmelweis.png" align="center"/><img src="images/handwashing.png" align="center"/>
 ---
 <center>© 2020 Duy Nguyen. Powered by Jekyll and the Minimal Theme.</center>
-
-
-
-

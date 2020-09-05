@@ -9,10 +9,6 @@
 
 <div style="text-align: justify">This project has been done based on my real experience with the investment in stock market and crypto market.
 
-During the period of 2018-2019, i have researched about Blockchain technology and learn about its tremendous pontential in the new age of technology. One of the best things about the blockchain is that, because it is a decentralized system that exists between all permitted parties, there’s no need to rely onintermediaries (Middlemen). Apart from its payment feature, the most important usecase of Crypto is smart contracts, otherwise called self-executing contracts, blockchain contracts, or digital contracts. smart contracts not only define the rules and penalties around an agreement in the same way that a traditional contract does, but also automatically enforce those obligations.
-
-Seeing its potential in the future, I decided to invest in a small amount of Ethereum, one of the 2 most popular crypto in the market right now besides Bitcoin.
-
 During the beginning of 2020, due to the Covid pandemic, investor's fear of economic crisis had resulted in a big crash in the global stock market as well in Finland. At this point I considered the stock values in OMX Helsinki Stock Exchange had been significantly undervalued. As a resulted, I decided to investment in 2 top shares in OMX (based on Market Capitalization) which are NOKIA and FORTUM.
 
 This project has been done to visualize the gain and loss of my 3 positions in Crypto (Ethereum) and Stocks (Nokia and Fortum). As well as compare their performance with ther performance of OMX Index during the same period.

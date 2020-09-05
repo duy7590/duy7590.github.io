@@ -20,8 +20,6 @@ My Entry was as below:
 
 <img src="images/Portfolio_tracker.png" align="center"/>
 
----
-
 
 ### GLOBAL SITUATION OF COVID-19
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1Z9UFhFYL-Eo-G19sHSMm2-wYKAe9ft1g?usp=sharing)

@@ -23,6 +23,10 @@ My Entry was as below:
 
 
 
+
+
+
+
 ### GLOBAL SITUATION OF COVID-19
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1Z9UFhFYL-Eo-G19sHSMm2-wYKAe9ft1g?usp=sharing)
 
@@ -34,6 +38,9 @@ I’ll be using data from this wonderful Github repository that auto-updates the
 
 <img src="images/covid19_visual.png" align="center"/>
 ---
+
+
+
 
 
 

@@ -1,13 +1,13 @@
 # Portfolio
 ---
 ## Data visualization
-### GLOBAL SITUATION OF COVID-19
+### Stock & Crypto Portfolio Performance 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1Z9UFhFYL-Eo-G19sHSMm2-wYKAe9ft1g?usp=sharing)
 
 
 <div style="text-align: justify">This project has been done based on my real experience with the investment in stock market and crypto market.
 
-During the period of 2018-2019, i have researched about Blockchain technology and learn about its tremendous pontential in the new age of technology. One of the best things about the blockchain is that, because it is a decentralized system that exists between all permitted parties, there’s no need to rely onintermediaries (Middlemen). Apart from its payment feature, the most important usecase of Crypto is smart contracts, otherwise called self-executing contracts, blockchain contracts, or digital contracts. smart contracts not only define the rules and penalties around an agreement in the same way that a traditional contract does, but also automatically enforce those obligations.
+During the period of 2018-2019, i have researched about Blockchain technology and learn about its tremendous pontential in the new age of technology. One of the best things about the blockchain is that, because it is a decentralized system that exists between all permitted parties, there’s no need to rely onintermediaries (Middlemen). Apart from its payment feature, the most important usecase of Crypto is smart contracts, otherwise called self-executing contracts, blockchain contracts, or digital contracts. smart contracts not only define the rules and penalties around an agreement in the same way that a traditional contract does, but also automatically enforce those obligations.
 
 Seeing its potential in the future, I decided to invest in a small amount of Ethereum, one of the 2 most popular crypto in the market right now besides Bitcoin.
 
@@ -52,7 +52,9 @@ My Entry was as below:
 <!-- DivTable.com -->
 
 <img src="images/Portfolio_tracker.png" align="center"/>
+
 ---
+
 
 ### GLOBAL SITUATION OF COVID-19
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1Z9UFhFYL-Eo-G19sHSMm2-wYKAe9ft1g?usp=sharing)

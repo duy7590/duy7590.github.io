@@ -1,6 +1,17 @@
 # Portfolio
 ---
 ## Data visualization
+### GLOBAL SITUATION OF COVID-19
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1Z9UFhFYL-Eo-G19sHSMm2-wYKAe9ft1g?usp=sharing)
+
+
+<div style="text-align: justify">Within months, COVID-19 went from an epidemic to a pandemic. From the first identified case in December 2019, how did the virus spread so fast and widely? The spread of disease is a real concern for a world in which global travel is commonplace.
+Aware of the serious situation, with this quick project I will build a mini dashboard to quickly update the global situation across the globe provided open data and using open source libraries.
+https://towardsdatascience.com/@nik.piepenbreier 
+I’ll be using data from this wonderful Github repository that auto-updates the data daily. I’ll load our data into a Pandas’ dataframe based on the URL so that it’ll update automatically for us every day.</div>
+
+<img src="images/covid19_visual.png" align="center"/>
+---
 
 ### GLOBAL SITUATION OF COVID-19
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1Z9UFhFYL-Eo-G19sHSMm2-wYKAe9ft1g?usp=sharing)

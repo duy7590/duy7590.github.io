@@ -38,7 +38,7 @@ My Entry was as below:
 <td style="width: 139px;">FORTUM.HE&nbsp;</td>
 <td style="width: 139px;">&nbsp;100</td>
 <td style="width: 139px;">&nbsp;13.4</td>
-<td style="width: 140px;">1340</td>
+<td style="width: 140px;">1340</td>
 </tr>
 <tr>
 <td style="width: 139px;">09/16/19&nbsp;</td>

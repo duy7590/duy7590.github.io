@@ -1,5 +1,51 @@
 # Portfolio
 
+
+## Recommender system 
+---
+### Moveis recommender system for group of users (not individual user) with different profiles
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1_N6R65rL_SYoovv1TYbZ1ODRSliodPDW?usp=sharing)
+
+
+<div style="text-align: justify">
+This is projects done in my "Recommender system" course at University of Tampere. The recommender systems aim at suggesting to users items of potential
+interest to them. There are quite different approaches for this task. However, there are 2 basic methods when recommending a new item to user:
+  • Similar users - user-based collaborative filtering: Make suggestions based on preferences of similar users 
+      - Given a user, identify his/her k most similar users: Cosine similarity, Jaccard similarity
+      - Produce recommendations based on the items that are liked by those k users: avg ratings, weighted schemes
+  • Similar items - item-based collaborative filtering: Exploit relationships between items
+      - Compute similarities between items: Cosine similarity, Jaccard similarity
+      - Keep for each item only the k most similar items along with their similarity scores
+      - Use similarities to calculate ratings for items with no scores 
+  
+Recommenders are usually designed to provide recommendations adapted to the preferences of a single user. In many situations the recommended items
+are consumed by a group of users. However, in this project, we want to address this issue and bring the Recommender system to another level.
+
+First of all, we run the model with 2 method of Group Recommender system:Average method & Least misery method. The basic idea of these 2 method is to produce a Representative Profile from the the group of different user' profiles.
+
+However, there are weaknesses in both average and least misery methods 
+• Average method: the out-flier user is never satisfied
+• Least misery method: the system recommends movies not highly interested by anyone in the group
+
+Another important drawback/assumption for the Group recommender based on these 2 method is that:  each time a group is using the recommender system is distinct from the previous ones. This is not a good system.
+
+So, the last step we implemented is using the Sequential Group Recommendations.The idea of Sequential Group Recommendations is: To get a better compromise of getting all group members satisfied enough, and taking into account the opinion of the possible disagreeing member.
+
+For more detail of the implementation, please check the notebook file
+
+
+
+</div>
+
+<img src="images/Recommender/1.png" align="center"/>
+<img src="images/Recommender/2.png" align="center"/>
+<img src="images/Recommender/3.png" align="center"/>
+<img src="images/Recommender/4.png" align="center"/>
+<img src="images/Recommender/5.png" align="center"/>
+<img src="images/Recommender/6.png" align="center"/>
+<img src="images/Recommender/7.png" align="center"/>
+---
+
 ## Data visualization
 
 ### Stock & Crypto Portfolio Performance 
@@ -67,6 +113,9 @@ I’ll be using data from this wonderful Github repository that auto-updates the
 
 ---
 ## Data Science
+
+### Bayesian Data Analysis
+
 
 ### DR. SEMMELWEIS AND THE DISCOVERY OF HANDWASHING
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1zfnFEcGlq7zeNKT76TwMDrDIcwNQ69S_#scrollTo=wvnK9JanM5tE)

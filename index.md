@@ -49,7 +49,7 @@ For more detail of the implementation, please check the notebook file
 ## Data visualization
 
 ### Stock & Crypto Portfolio Performance 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1Z9UFhFYL-Eo-G19sHSMm2-wYKAe9ft1g?usp=sharing)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1D9QBZW4VHcVrJ9rJdX56_YYCNiETPT0e?usp=sharing)
 
 This project has been done based on my real experience with the investment in stock market and crypto market.
 

@@ -12,8 +12,8 @@ For SQL, I used Microsoft SQL Server Management Studio to create a database base
 Then I setup different tables and play around with different querries before export the final cleaned dataset and take it as an input to Tableau
   
 In Tableau, I made a range of different charts based on the data querried from SQL. Later, I designed a simple Dashboard as can be seen from here: 
-https://public.tableau.com/app/profile/duy.nguyen1086/viz/CovidDashboard_16429782005130/Dashboard1
-  
+<a href="https://public.tableau.com/app/profile/duy.nguyen1086/viz/CovidDashboard_16429782005130/Dashboard1">link text</a>
+
 
 </div>
 

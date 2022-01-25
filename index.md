@@ -18,6 +18,8 @@ In Tableau, I made a range of different charts based on the data querried from S
 </div>
 
 <img src="github.com/duy7590/duy7590.github.io/blob/master/images/CovidDashboard.png" align="center"/>
+https://github.com/duy7590/duy7590.github.io/blob/e4df7a8aee503f99b9795c3583af493cfe9c3a12/images/CovidDashboard.png
+<img src="images/CovidDashboard.png" align="center"/>
 
 ---
 

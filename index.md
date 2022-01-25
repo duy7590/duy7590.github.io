@@ -3,7 +3,7 @@
 ## Tableau Dasboard & SQL
 ---
 ### A dashboard to summarize the Covid Infections 
-[![Run in Tableau Public](https://img.shields.io/badge/tableau-%23E97627.svg-blue?logo=tableau&logoColor=FDBA18)](https://public.tableau.com/app/profile/duy.nguyen1086/viz/CovidDashboard_16429782005130/Dashboard1)
+[![Run in Tableau Public](https://img.shields.io/badge/tableau-Run_in_Tableau-blue?logo=tableau&logoColor=FDBA18)](https://public.tableau.com/app/profile/duy.nguyen1086/viz/CovidDashboard_16429782005130/Dashboard1)
 
 <div style="text-align: justify">
 This is a project for me to practice SQL and Tableau and demonstrate the the basic skills to provide some intelligence out of the raw data.

@@ -17,7 +17,7 @@ In Tableau, I made a range of different charts based on the data querried from S
 
 </div>
 
-<img src="images/Recommender/CovidDashboard.png"/>
+<img src="images/Recommender/CovidDashboard.png" align="center"/>
 
 ---
 

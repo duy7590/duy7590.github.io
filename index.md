@@ -22,9 +22,12 @@ Later, I designed a simple Dashboard in Tableau which could be view from <a href
 
 <img src="images/CovidDashboard.png" align="center"/>
 <img src="images/MSSQL.png" align="center"/>
+
 ---
+
 ### Data Cleaning Practice Microsoft SQL Server Management Studio
-[![Run in SQL in Github ](https://img.shields.io/badge/github-Run_in_SQL-blue?logo=github&logoColor=FDBA18)](https://github.com/duy7590/SQL-Practice-Projects/blob/main/SQLDataCleaning_Query.sql)
+[![Run in SQL in Github ](https://img.shields.io/badge/github-Run_in_SQL-blue?logo=github&logoColor=FDBA18)]
+(https://github.com/duy7590/SQL-Practice-Projects/blob/main/SQLDataCleaning_Query.sql)
 
 <div style="text-align: justify">
 This is a practice for me to practice data cleaning and processing with SQL querries 

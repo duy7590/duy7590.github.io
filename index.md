@@ -38,12 +38,15 @@ I used Microsoft SQL Server Management Studio and the "Nashville Housing Dataset
 <img src="images/SQL_Data_Cleaning.png" align="center"/>
 
 ---
-### Data Query Practice with Microsoft SQL Server Management Studio using Retail Sales Report of 
-[![Run in SQL in Github ](https://img.shields.io/badge/github-Run_in_SQL-blue?logo=github&logoColor=FDBA18)](https://github.com/duy7590/SQL-Practice-Projects/blob/main/SQLDataCleaning_Query.sql)
+### Data Query Practice with Microsoft SQL Server Management Studio using Retail Sales Report of DLABSTORE
+[![Run in SQL in Github ](https://img.shields.io/badge/github-Run_in_SQL-blue?logo=github&logoColor=FDBA18)](https://github.com/duy7590/SQL-Practice-Projects/blob/main/Sales%20Performance%20Report%20DQLab%20Store/RetailSQL.sql)
 
 <div style="text-align: justify">
 </div>
+This project provided by DQLab, here was given the dataset contains the transactions report from 2009 until 2012 consist 5500 rows. 
+(The dataset can be found here <a href="https://github.com/duy7590/SQL-Practice-Projects/blob/main/Sales%20Performance%20Report%20DQLab%20Store/clean_data.csv"> here</a> ) 
 
+I uses the dataset to answer 6 different business questions as below:
 <ul>
   <li>Order numbers and total sales from 2009 until 2012 which order status is finished</li>
   <li>Total sales for each sub-category of product on 2011 and 2012</li>
@@ -54,7 +57,7 @@ I used Microsoft SQL Server Management Studio and the "Nashville Housing Dataset
   
 </ul>  
 
-<img src="images/SQL_Data_Cleaning.png" align="center"/>
+<img src="images/DLabRetail.png" align="center"/>
 
 ---
 

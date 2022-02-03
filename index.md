@@ -38,6 +38,25 @@ I used Microsoft SQL Server Management Studio and the "Nashville Housing Dataset
 <img src="images/SQL_Data_Cleaning.png" align="center"/>
 
 ---
+### Data Query Practice with Microsoft SQL Server Management Studio using Retail Sales Report of 
+[![Run in SQL in Github ](https://img.shields.io/badge/github-Run_in_SQL-blue?logo=github&logoColor=FDBA18)](https://github.com/duy7590/SQL-Practice-Projects/blob/main/SQLDataCleaning_Query.sql)
+
+<div style="text-align: justify">
+</div>
+
+<ul>
+  <li>Order numbers and total sales from 2009 until 2012 which order status is finished</li>
+  <li>Total sales for each sub-category of product on 2011 and 2012</li>
+  <li>The effectiveness and efficiency of promotions carried out so far, by calculating the burn rate of the overall promotions by year</li>
+  <li>The effectiveness and efficiency of promotions carried out so far, by calculating the burn rate of the overall promotions by sub-category of product on 2012</li>
+  <li>The number of customers transactions for each year</li>
+  <li>The number of new customers for each year </li>
+  
+</ul>  
+
+<img src="images/SQL_Data_Cleaning.png" align="center"/>
+
+---
 
 ## Recommender system 
 ---

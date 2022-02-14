@@ -4,7 +4,7 @@
 
 ---
 ### Hotel Revenue Analysis using SQL Server and Reprot with Power BI
-[![Run in SQL in Github ](https://img.shields.io/badge/github-Run_in_SQL-blue?logo=github&logoColor=FDBA18)](https://github.com/duy7590/SQL_Covid19_Tutorial/blob/main/Covid19_Data%20Exploration_%20SQLQuery.sql)
+[![Run in SQL in Github ](https://img.shields.io/badge/github-Run_in_SQL-blue?logo=github&logoColor=FDBA18)](https://github.com/duy7590/SQL-Practice-Projects/blob/main/Hote%20Revenue/Hotel_revenue_SQLQuery.sql)
 
 <iframe title="HotelRevenue - Page 1" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYzFmZTBlYjUtOTYwMS00MjgzLThhZDAtNjk0ZDAyZGEzOWVjIiwidCI6ImZhNjk0NGFmLWNjN2MtNGNkOC05MTU0LWMwMTEzMjc5ODkxMCIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
 
@@ -17,7 +17,7 @@ This is a small project for me to learn using Power BI and build a dashboard. Th
   <li>4. Visualize Data in Power BI</li>
 
 </ul>  
-Find the dataset here: https://www.absentdata.com/wp-content/uploads/2021/05/hotel_revenue_historical_full.xlsx
+Find the dataset here: https://github.com/duy7590/SQL-Practice-Projects/blob/main/Hote%20Revenue/hotel_revenue_historical_full.xlsx
 </div>
 
 ---

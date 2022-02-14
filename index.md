@@ -4,17 +4,21 @@
 
 ---
 ### Hotel Revenue Analysis using SQL Server and Reprot with Power BI
-[![Run in Tableau Public](https://img.shields.io/badge/tableau-Run_in_Tableau-blue?logo=tableau&logoColor=FDBA18)](https://public.tableau.com/app/profile/duy.nguyen1086/viz/CovidDashboard_16429782005130/Dashboard1)
-
 [![Run in SQL in Github ](https://img.shields.io/badge/github-Run_in_SQL-blue?logo=github&logoColor=FDBA18)](https://github.com/duy7590/SQL_Covid19_Tutorial/blob/main/Covid19_Data%20Exploration_%20SQLQuery.sql)
 
 <iframe title="HotelRevenue - Page 1" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYzFmZTBlYjUtOTYwMS00MjgzLThhZDAtNjk0ZDAyZGEzOWVjIiwidCI6ImZhNjk0NGFmLWNjN2MtNGNkOC05MTU0LWMwMTEzMjc5ODkxMCIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
 
-<div style="text-align: justify">
-</div>
+<div style="text-align: justify"> 
+This is a small project for me to learn using Power BI and build a dashboard. The project goes through 4 small steps: 
+<ul>
+  <li>1. Build a Database: By Import Excel data of Hotel Revenue into a database in SQL Server Management Studio</li>
+  <li>2. Analyze and Retrieve Data with SQL: Uisng different SQL commands to retrieve the necessary data</li>
+  <li>3. Connect Power BI to a Database: Using Power to connect to the data base and extract the data with a custom SQL query in Power BI</li>
+  <li>4. Visualize Data in Power BI</li>
 
-<img src="images/CovidDashboard.png" align="center"/>
-<img src="images/MSSQL.png" align="center"/>
+</ul>  
+Find the dataset here: https://www.absentdata.com/wp-content/uploads/2021/05/hotel_revenue_historical_full.xlsx
+</div>
 
 ---
 

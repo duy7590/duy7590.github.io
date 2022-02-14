@@ -1,6 +1,6 @@
 # Portfolio
 
-## SQL & Tableau Dasboard/BI
+## SQL & Dasboard/BI (Tableau & Power BI)
 
 ---
 ### Hotel Revenue Analysis using SQL Server and Reprot with Power BI

@@ -1,6 +1,23 @@
 # Portfolio
 
 ## SQL & Tableau Dasboard/BI
+
+---
+### Hotel Revenue Analysis using SQL Server and Reprot with Power BI
+[![Run in Tableau Public](https://img.shields.io/badge/tableau-Run_in_Tableau-blue?logo=tableau&logoColor=FDBA18)](https://public.tableau.com/app/profile/duy.nguyen1086/viz/CovidDashboard_16429782005130/Dashboard1)
+
+[![Run in SQL in Github ](https://img.shields.io/badge/github-Run_in_SQL-blue?logo=github&logoColor=FDBA18)](https://github.com/duy7590/SQL_Covid19_Tutorial/blob/main/Covid19_Data%20Exploration_%20SQLQuery.sql)
+
+
+<div style="text-align: justify"><iframe title="HotelRevenue - Page 1" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYzFmZTBlYjUtOTYwMS00MjgzLThhZDAtNjk0ZDAyZGEzOWVjIiwidCI6ImZhNjk0NGFmLWNjN2MtNGNkOC05MTU0LWMwMTEzMjc5ODkxMCIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
+</div>
+
+<img src="images/CovidDashboard.png" align="center"/>
+<img src="images/MSSQL.png" align="center"/>
+
+---
+
+
 ---
 ### A dashboard to summarize the Covid Infections 
 [![Run in Tableau Public](https://img.shields.io/badge/tableau-Run_in_Tableau-blue?logo=tableau&logoColor=FDBA18)](https://public.tableau.com/app/profile/duy.nguyen1086/viz/CovidDashboard_16429782005130/Dashboard1)

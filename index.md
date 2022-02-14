@@ -8,9 +8,13 @@
 
 <iframe title="HotelRevenue - Page 1" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYzFmZTBlYjUtOTYwMS00MjgzLThhZDAtNjk0ZDAyZGEzOWVjIiwidCI6ImZhNjk0NGFmLWNjN2MtNGNkOC05MTU0LWMwMTEzMjc5ODkxMCIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
 
+  
 <div style="text-align: justify"> 
 This is a small project for me to learn using Power BI and build a dashboard. The project goes through 4 small steps: 
-<ul>
+<div style="text-align: justify"> 
+The data set demonstrate the transactions of 2 hotels (City Hotel and Resort Hotel) with the average daily rate (ADR) measures the average rental revenue earned for an occupied room per day. The dataset consits all transactions of these hotel from 2018-2019-2020. The dataset also provide the info in the parking spaces required and the actual parking percentage over the total revenue.
+</div>
+  <ul>
   <li>1. Build a Database: By Import Excel data of Hotel Revenue into a database in SQL Server Management Studio</li>
   <li>2. Analyze and Retrieve Data with SQL: Uisng different SQL commands to retrieve the necessary data</li>
   <li>3. Connect Power BI to a Database: Using Power to connect to the data base and extract the data with a custom SQL query in Power BI</li>

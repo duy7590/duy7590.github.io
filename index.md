@@ -10,9 +10,9 @@
 
   
 <div style="text-align: justify"> 
-This is a small project for me to learn using Power BI and build a dashboard. The project goes through 4 small steps: 
+This is a small project for me to learn using Power BI and build a dashboard. 
 <div style="text-align: justify"> 
-The data set demonstrate the transactions of 2 hotels (City Hotel and Resort Hotel) with the average daily rate (ADR) measures the average rental revenue earned for an occupied room per day. The dataset consits all transactions of these hotel from 2018-2019-2020. The dataset also provide the info in the parking spaces required and the actual parking percentage over the total revenue.
+The data set demonstrate the transactions of 2 hotels (City Hotel and Resort Hotel) with the average daily rate (ADR) measures the average rental revenue earned for an occupied room per day. The dataset consits all transactions of these hotel from 2018-2019-2020. The dataset also provide the info in the parking spaces required and the actual parking percentage over the total revenue. The project goes through 4 small steps: 
 </div>
   <ul>
   <li>1. Build a Database: By Import Excel data of Hotel Revenue into a database in SQL Server Management Studio</li>

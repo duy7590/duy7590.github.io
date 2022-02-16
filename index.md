@@ -51,9 +51,7 @@ Later, I designed a simple Dashboard in Tableau which could be view from <a href
 
 ---
 ### A dashboard to analyze the state of Education Technology in Europe and North America 
-[![Run in Tableau Public](https://img.shields.io/badge/tableau-Run_in_Tableau-blue?logo=tableau&logoColor=FDBA18)](https://public.tableau.com/app/profile/duy.nguyen1086/viz/CovidDashboard_16429782005130/Dashboard1)
-
-[![Run in SQL in Github ](https://img.shields.io/badge/github-Run_in_SQL-blue?logo=github&logoColor=FDBA18)](https://github.com/duy7590/SQL_Covid19_Tutorial/blob/main/Covid19_Data%20Exploration_%20SQLQuery.sql)
+[![Run in Tableau Public](https://img.shields.io/badge/tableau-Run_in_Tableau-blue?logo=tableau&logoColor=FDBA18)](https://public.tableau.com/views/EduTech/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 <div style="text-align: justify">
 

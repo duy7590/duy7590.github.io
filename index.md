@@ -1,7 +1,6 @@
 # Portfolio
 
 ## SQL & Dasboard/BI (Tableau & Power BI)
-
 ---
 ### Hotel Revenue Analysis using SQL Server and Reprot with Power BI
 [![Run in SQL in Github ](https://img.shields.io/badge/github-Run_in_SQL-blue?logo=github&logoColor=FDBA18)](https://github.com/duy7590/SQL-Practice-Projects/blob/main/Hote%20Revenue/Hotel_revenue_SQLQuery.sql)
@@ -26,8 +25,6 @@ Find the dataset here: https://github.com/duy7590/SQL-Practice-Projects/blob/mai
 
 ---
 
-
----
 ### A dashboard to summarize the Covid Infections 
 [![Run in Tableau Public](https://img.shields.io/badge/tableau-Run_in_Tableau-blue?logo=tableau&logoColor=FDBA18)](https://public.tableau.com/app/profile/duy.nguyen1086/viz/CovidDashboard_16429782005130/Dashboard1)
 
@@ -46,10 +43,9 @@ Later, I designed a simple Dashboard in Tableau which could be view from <a href
 
 <div style="text-align: justify">
 <div class='tableauPlaceholder' id='viz1645111661252' style='position: relative'><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CovidDashboard_16429782005130&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1645111661252');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='1177px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+<img src="images/MSSQL.png" align="center"/>
 </div>
 
-
-<img src="images/MSSQL.png" align="center"/>
 
 ---
 ### A dashboard to analyze the state of Education Technology in Europe and North America 
@@ -72,6 +68,7 @@ Some key takeaways:
   
 <div class='tableauPlaceholder' id='viz1645054033131' style='position: relative'><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='EduTech&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1645054033131');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='1477px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 </div>
+
 ---
 
 ### Data Cleaning Practice with Microsoft SQL Server Management Studio using Housing Dataset
@@ -81,10 +78,10 @@ Some key takeaways:
 This is a practice for me to practice data cleaning and processing with SQL querries 
 I used Microsoft SQL Server Management Studio and the "Nashville Housing Dataset" for this Data Cleaning Practice. (Check it <a href="https://github.com/duy7590/SQL-Practice-Projects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xls"> here</a> ) 
 
-  
+<img src="images/SQL_Data_Cleaning.png" align="center"/>
+
 </div>
 
-<img src="images/SQL_Data_Cleaning.png" align="center"/>
 
 ---
 ### Data Query Practice with Microsoft SQL Server Management Studio using Retail Sales Report of DLABSTORE

@@ -57,16 +57,15 @@ Later, I designed a simple Dashboard in Tableau which could be view from <a href
 
 <div style="text-align: justify">
 This project I utilize the data from Pitchbook, a financial software and data provider helping investment professionals capitalize on opportunities within the private and public markets. In this project, I get the venture capital investment into Edutech companies which located in North America and Europe and founded after 2010 ( In order to reach more innovative, up-to-date and specialized solutions  instead of traditional companies. This is due to the fact that most of the venture capital activities in the  field for educational technologies started to gain traction since 2010. It is with high confidence that 2010 is a good border to frame the research. )
-
- 
+<br>
 <ul>
-  <li>- Some key takeaways: </li>
-  <li>- Despite the unstable market climate in 2020, the investment activities into this field have still increased significantly.</li>
-  <li>- The Investment activity in North America is much more active than that of European market. The amount of VC funding in North America is almost 4x the amount in Europe during the past 10 years.</li>
-  <li>- Most recurring keywords being mentioned in those emerging companies are around "Online platform, Student management, Digital Course, Game App, Language Skills, Career" </li
-   <li>- B2C service providers is the biggest group on the market. However, Corporation training and virtual class room apps are also emerging </li
-  <li>- Most active sources of investments in the field are accelerator and incubator and Venture Capital. </li>
-  <li>- Over 50% of deals are made into early stage or seeding stage companies. This indicates the fact that the field is still pretty much active market and open to new tech developers. Public and accelerator fundings typically support more early stage-solutions, whereas Private Equity and M&A-investments are associated with more mature companies.</li>
+Some key takeaways:
+  <li> Despite the unstable market climate in 2020, the investment activities into this field have still increased significantly.</li>
+  <li> The Investment activity in North America is much more active than that of European market. The amount of VC funding in North America is almost 4x the amount in Europe during the past 10 years.</li>
+  <li> Most recurring keywords being mentioned in those emerging companies are around "Online platform, Student management, Digital Course, Game App, Language Skills, Career" </li
+  <li> B2C service providers is the biggest group on the market. However, Corporation training and virtual class room apps are also emerging </li
+  <li> Most active sources of investments in the field are accelerator and incubator and Venture Capital. </li>
+  <li> Over 50% of deals are made into early stage or seeding stage companies. This indicates the fact that the field is still pretty much active market and open to new tech developers. Public and accelerator fundings typically support more early stage-solutions, whereas Private Equity and M&A-investments are associated with more mature companies.</li>
 </ul> 
  
   

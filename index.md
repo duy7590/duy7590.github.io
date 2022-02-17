@@ -24,7 +24,6 @@ Find the dataset here: https://github.com/duy7590/SQL-Practice-Projects/blob/mai
 </div>
 
 ---
-
 ### A dashboard to summarize the Covid Infections 
 [![Run in Tableau Public](https://img.shields.io/badge/tableau-Run_in_Tableau-blue?logo=tableau&logoColor=FDBA18)](https://public.tableau.com/app/profile/duy.nguyen1086/viz/CovidDashboard_16429782005130/Dashboard1)
 
@@ -70,7 +69,6 @@ Some key takeaways:
 </div>
 
 ---
-
 ### Data Cleaning Practice with Microsoft SQL Server Management Studio using Housing Dataset
 [![Run in SQL in Github ](https://img.shields.io/badge/github-Run_in_SQL-blue?logo=github&logoColor=FDBA18)](https://github.com/duy7590/SQL-Practice-Projects/blob/main/SQLDataCleaning_Query.sql)
 
@@ -88,7 +86,7 @@ I used Microsoft SQL Server Management Studio and the "Nashville Housing Dataset
 [![Run in SQL in Github ](https://img.shields.io/badge/github-Run_in_SQL-blue?logo=github&logoColor=FDBA18)](https://github.com/duy7590/SQL-Practice-Projects/blob/main/Sales%20Performance%20Report%20DQLab%20Store/RetailSQL.sql)
 
 <div style="text-align: justify">
-</div>
+
 This project provided by DQLab, here was given the dataset contains the transactions report from 2009 until 2012 consist 5500 rows. 
 (The dataset can be found here <a href="https://github.com/duy7590/SQL-Practice-Projects/blob/main/Sales%20Performance%20Report%20DQLab%20Store/clean_data.csv"> here</a> ) 
 
@@ -104,7 +102,7 @@ I uses the dataset to answer 6 different business questions as below:
 </ul>  
 
 <img src="images/DLabRetail.png" align="center"/>
-
+</div>
 ---
 
 ## Recommender system 
@@ -153,7 +151,7 @@ For more detail of the implementation, please check the notebook file
 ---
 
 ## Data visualization
-
+---
 ### Stock & Crypto Portfolio Performance 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1D9QBZW4VHcVrJ9rJdX56_YYCNiETPT0e?usp=sharing)
 

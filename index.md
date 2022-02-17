@@ -129,7 +129,7 @@ are consumed by a group of users. However, in this project, we want to address t
 <br>
 First of all, we run the model with 2 method of Group Recommender system:Average method & Least misery method. The basic idea of these 2 method is to produce a Representative Profile from the the group of different user' profiles.
 <br> 
-  <dd>However, there are weaknesses in both average and least misery methods </dd>
+However, there are weaknesses in both average and least misery methods:
   <dd>- Average method: the out-flier user is never satisfied</dd>
   <dd>- Least misery method: the system recommends movies not highly interested by anyone in the group</dd>
 <br>

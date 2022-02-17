@@ -20,7 +20,7 @@ The data set demonstrate the transactions of 2 hotels (City Hotel and Resort Hot
   <li>4. Visualize Data in Power BI</li>
 
 </ul>  
-Find the dataset here: https://github.com/duy7590/SQL-Practice-Projects/blob/main/Hote%20Revenue/hotel_revenue_historical_full.xlsx
+Find the dataset <a href="https://github.com/duy7590/SQL-Practice-Projects/blob/main/Hote%20Revenue/hotel_revenue_historical_full.xlsx"> here</a> 
 </div>
 
 ---

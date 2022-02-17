@@ -54,15 +54,15 @@ Later, I designed a simple Dashboard in Tableau which could be view from <a href
 This project I utilize the data from Pitchbook, a financial software and data provider helping investment professionals capitalize on opportunities within the private and public markets. In this project, I get the venture capital investment into Edutech companies which located in North America and Europe and founded after 2010 ( In order to reach more innovative, up-to-date and specialized solutions  instead of traditional companies. This is due to the fact that most of the venture capital activities in the  field for educational technologies started to gain traction since 2010. It is with high confidence that 2010 is a good border to frame the research. )
   <br>
   <br>
-<ul>
+
 Some key takeaways:
   <li> Despite the unstable market climate in 2020, the investment activities into this field have still increased significantly.</li>
   <li> The Investment activity in North America is much more active than that of European market. The amount of VC funding in North America is almost 4x the amount in Europe during the past 10 years.</li>
-  <li> Most recurring keywords being mentioned in those emerging companies are around "Online platform, Student management, Digital Course, Game App, Language Skills, Career" </li
-  <li> B2C service providers is the biggest group on the market. However, Corporation training and virtual class room apps are also emerging </li
+  <li> Most recurring keywords being mentioned in those emerging companies are around "Online platform, Student management, Digital Course, Game App, Language Skills, Career" </li>
+  <li> B2C service providers is the biggest group on the market. However, Corporation training and virtual class room apps are also emerging </li>
   <li> Most active sources of investments in the field are accelerator and incubator and Venture Capital. </li>
   <li> Over 50% of deals are made into early stage or seeding stage companies. This indicates the fact that the field is still pretty much active market and open to new tech developers. Public and accelerator fundings typically support more early stage-solutions, whereas Private Equity and M&A-investments are associated with more mature companies.</li>
-</ul> 
+
  
   
 <div class='tableauPlaceholder' id='viz1645054033131' style='position: relative'><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='EduTech&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1645054033131');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='1477px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>

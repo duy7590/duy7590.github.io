@@ -126,6 +126,7 @@ interest to them. There are quite different approaches for this task. However, t
 Recommenders are usually designed to provide recommendations adapted to the preferences of a single user. In many situations the recommended items
 are consumed by a group of users. However, in this project, we want to address this issue and bring the Recommender system to another level.
 <br>
+<br>
 First of all, we run the model with 2 method of Group Recommender system:Average method & Least misery method. The basic idea of these 2 method is to produce a Representative Profile from the the group of different user' profiles.
 <br> 
 <br> 
@@ -133,9 +134,12 @@ However, there are weaknesses in both average and least misery methods:
   <dd>- Average method: the out-flier user is never satisfied</dd>
   <dd>- Least misery method: the system recommends movies not highly interested by anyone in the group</dd>
 <br>
+<br>
 Another important drawback/assumption for the Group recommender based on these 2 method is that:  each time a group is using the recommender system is distinct from the previous ones. This is not a good system.
 <br>
+<br>  
 So, the last step we implemented is using the Sequential Group Recommendations.The idea of Sequential Group Recommendations is: To get a better compromise of getting all group members satisfied enough, and taking into account the opinion of the possible disagreeing member.
+<br>
 <br>
 For more detail of the implementation, please check the notebook file
 

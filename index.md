@@ -57,7 +57,8 @@ Later, I designed a simple Dashboard in Tableau which could be view from <a href
 
 <div style="text-align: justify">
 This project I utilize the data from Pitchbook, a financial software and data provider helping investment professionals capitalize on opportunities within the private and public markets. In this project, I get the venture capital investment into Edutech companies which located in North America and Europe and founded after 2010 ( In order to reach more innovative, up-to-date and specialized solutions  instead of traditional companies. This is due to the fact that most of the venture capital activities in the  field for educational technologies started to gain traction since 2010. It is with high confidence that 2010 is a good border to frame the research. )
-<br>
+  <br>
+  <br>
 <ul>
 Some key takeaways:
   <li> Despite the unstable market climate in 2020, the investment activities into this field have still increased significantly.</li>

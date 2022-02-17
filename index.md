@@ -49,7 +49,6 @@ Later, I designed a simple Dashboard in Tableau which could be view from <a href
 </div>
 
 
-<img src="images/CovidDashboard.png" align="center"/>
 <img src="images/MSSQL.png" align="center"/>
 
 ---

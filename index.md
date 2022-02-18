@@ -1,11 +1,11 @@
 # Hi there! I'm Duy
 # Welcome to my portfolio!
-### Glad to see you here. This is the place where I post some Things I've worked on data analysis. They can be either something really academic or some small exercises where I learn, practice and experiment new technologies or solutions. 
+### Glad to see you here. This is the place where I post something I've worked on regarding data analysis skills. They can be either something really academic or some small exercises where I learn, practice and experiment new technologies or solutions. 
 ### I believe that words and data are the two most powerful tools to change the world. Most of my time is spent staring at a computer screen. During the day, I am usually doing research on technology & venture capital market, working to derive insight from large datasets. My skills include data analysis, visualization, and machine learning. I have developed a strong acumen for problem solving, and I enjoy an occasional challenge. 
 ### This page helps me maintain a habbit of steady practice and development everyday. Every small steps count! 
 
 
-# Portfolio
+# My Portfolio
 
 ## SQL & Dasboard/BI (Tableau & Power BI)
 ---

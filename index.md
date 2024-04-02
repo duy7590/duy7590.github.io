@@ -1,4 +1,4 @@
-# Hi there! I'm Duy
+# Hi there! I'm Alex Duy Nguyen
 # Welcome to my portfolio!
 <br>
 Glad to see you here. This is the place where I post something I've worked on regarding data analysis & data processing skills. They can be either something really academic or some small exercises where I learn, practice and experiment new technologies or solutions. 
